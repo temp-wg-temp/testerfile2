@@ -1,0 +1,367 @@
+/* XL Device :1200px. */
+@media (min-width: 1200px) and (max-width: 1500px) {
+    .cate-part {
+        width: 540px;
+    }
+    .weeegoo-text p {
+        width: 672px;
+    }
+    .download-wrapper p {
+        width: 672px;
+    }
+    .about-text p {
+        width: 797px;
+    }
+    .todether-text p {
+        width: 727px;
+    }
+    .card-body {
+        width: 797px;
+    }
+    .weeegoo-service {
+        width: 255px;
+        height: 358px;
+    }
+    .partners-area h2 {
+        width: 775px;
+    }
+    .join-form {
+        width: 440px;
+    }
+}
+
+/* LG Device :992px. */
+@media (min-width: 992px) and (max-width: 1200px) {
+    .cate-img {
+        width: 189px;
+    }
+    .cate-text p {
+        padding-right: 10px;
+    }
+    .right-store {
+        width: 295px;
+    }
+    .list-store-img {
+        width: 90px;
+    }
+    .list-store-text {
+        width: 155px;
+        padding-left: 15px;
+    }
+    .list-btn a {
+        width: 260px;
+        margin: 22px auto 24px auto;
+    }
+    .portals-text h4 {
+        font-size: 16px;
+    }
+    .todether-text p {
+        width: 727px;
+    }
+    .partners-area h2 {
+        width: 775px;
+    }
+    .select-text ul li a {
+        padding: 10px 75px 10px 20px;
+    }
+}
+
+
+/* MD Device :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+    .main-menu ul li a {
+        padding: 20px 10px;
+    }
+    .header-right .login-btn {
+        padding: 10px 16px;
+    }
+    .header-right .cart {
+        margin-left: 10px;
+    }
+    .cate-img {
+        width: 130px;
+    }
+    .cate-text h3 {
+        font-size: 18px;
+        line-height: 7px;
+        margin-top: 14px;
+    }
+    .cate-text p {
+        font-size: 13px;
+        line-height: 12px;
+        padding-right: 5px;
+    }
+    .site-title {
+        font-size: 40px;
+    }
+    .reasons-text h3 {
+        font-size: 19px;
+    }
+    .reasons-text p {
+        width: inherit;
+        font-size: 15px;
+    }
+    .weeegoo-area .site-title {
+        line-height: 40px;
+    }
+    .weeegoo-text p {
+        font-size: 16px;
+        line-height: 20px;
+    }
+    .right-store {
+        width: 205px;
+    }
+    .list-store-img {
+        width: 60px;
+        display: block;
+        margin: auto;
+    }
+    .list-store-text {
+        width: inherit;
+        display: block;
+        padding-left: 0;
+        text-align: center;
+        margin-top: 6px;
+    }
+    .list-store-text h3 {
+        font-size: 26px;
+        line-height: 25px;
+    }
+    .list-btn a {
+        width: 180px;
+        padding: 12px 12px;
+        margin: 22px auto 22px auto;
+    }
+    .believe-area h2 {
+        width: 620px;
+    }
+    .weeegoo-list ul li {
+        margin-right: 35px;
+    }
+    .portals-text h4 {
+        font-size: 23px;
+        font-weight: 400;
+    }
+    .select-text ul li a {
+        font-size: 16px;
+        padding: 10px 60px 10px 15px;
+    }
+    .accordion > .card > .card-header {
+        padding-left: 20px;
+        padding-right: 40px;
+    }
+    .card-body {
+        margin-left: 20px;
+    }
+    .my-button span i {
+        right: -30px;
+    }
+    .we-help {
+        padding-top: 20px;
+        padding-bottom: 40px;
+    }
+    .join-form {
+        margin-top: 70px;
+    }
+}
+
+
+/* Extra small Device. */
+@media (max-width: 767px) {
+    .header-area {
+        padding: 10px 0;
+        position: relative;
+    }
+    .header-right {
+        text-align: right;
+        margin-right: 50px;
+    }
+    .header-right .login-btn {
+        padding: 10px 20px;
+    }
+    .header-right .cart {
+        margin-left: 5px;
+    }
+    .mobile-menu {
+        position: absolute;
+        width: 100%;
+        margin: auto;
+        left: 0;
+        top: 8px;
+    }
+    .mean-container a.meanmenu-reveal {
+        right: 8px !important;
+    }
+    .slider-text {
+        padding: 50px 0;
+    }
+    .slider-text .btn {
+        width: 82px;
+        font-size: 13px;
+    }
+    .slider-text h3 {
+        line-height: 37px;
+        margin-top: 10px;
+        font-size: 37px;
+    }
+    .site-title {
+        font-size: 40px;
+        line-height: 40px;
+    }
+    .right-store {
+        width: 316px;
+        margin: auto;
+    }
+    .list-store-img {
+        width: 90px;
+    }
+    .list-btn a {
+        width: 280px;
+    }
+    .weeegoo-text {
+        margin-bottom: 30px;
+    }
+    .believe-area h2 {
+        font-size: 26px;
+        line-height: 32px;
+        width: 320px;
+    }
+    .download-app {
+        padding: 50px 0;
+    }
+    .download-wrapper h2 {
+        font-size: 45px;
+        line-height: 40px;
+        margin-bottom: 16px;
+    }
+    .download-app-img a {
+        width: 135px;
+    }
+    .footer-logo {
+        width: 135px;
+    }
+    .footer-menu ul li {
+        margin-left: 12px;
+    }
+    .slider-area {
+        padding-top: 45px;
+        padding-bottom: 0px;
+    }
+    .select-text ul li a {
+        padding: 10px 30px 10px 20px;
+    }
+    .select-text {
+        margin-bottom: 25px;
+    }
+    .accordion > .card > .card-header {
+        padding-left: 15px;
+        padding-right: 30px;
+    }
+    .my-button {
+        font-size: 18px;
+    }
+    .my-button span i {
+        right: -32px;
+    }
+    .card-body {
+        font-size: 18px;
+        line-height: 26px;
+        margin-left: 15px;
+    }
+    .together-area h2 {
+        font-size: 35px;
+        line-height: 40px;
+    }
+    .join-form {
+        margin-top: 70px;
+    }
+    .partners-area h2 {
+        font-size: 31px;
+        line-height: 45px;
+        padding: 0 10px;
+    }
+    .site-title {
+        font-size: 35px;
+    }
+    .we-help {
+        padding-top: 20px;
+        padding-bottom: 50px;
+    }
+    .we-help h2 {
+        font-size: 30px;
+        line-height: 36px;
+        padding: 0 10px;
+    }
+    .easy-img {
+        width: 50px;
+    }
+    .easy-text {
+        width: 260px;
+        padding: 0;
+    }
+    .footer-menu {
+        text-align: left !important;
+        padding: 10px 0;
+    }
+    .footer-menu ul li {
+        margin-right: 12px;
+        margin-left: 0;
+    }
+    .footer-bottom p {
+        text-align: center;
+    }
+    .join-body {
+        padding: 40px 20px 30px;
+    }
+}
+
+/* SM Small Device :550px. */
+@media only screen and (min-width: 576px) and (max-width: 767px) {
+    .social-icon a {
+        font-size: 18px;
+        margin-left: 10px;
+    }
+    .portals-text h4 {
+        font-size: 17px;
+        line-height: 22px;
+    }
+    .grow-img {
+        width: 80px;
+    }
+    .grow-text h3 {
+        font-size: 28px;
+        padding-top: 30px;
+    }
+    .grow-text p {
+        font-size: 16px;
+        line-height: 22px;
+        padding: 0;
+    }
+}
+
+@media (max-width: 540px) {
+    .cate-img {
+        width: 135px;
+    }
+    .cate-text h3 {
+        font-size: 20px;
+        line-height: 3px;
+        margin-top: 10px;
+    }
+    .cate-text p {
+        font-size: 14px;
+        line-height: 14px;
+        padding-right: 5px;
+    }
+    .portals-text h4 {
+        font-size: 18px;
+    }
+}
+
+@media (max-width: 575px) {
+    .footer-menu {
+        text-align: left !important;
+        padding: 10px 0;
+    }
+
+}
